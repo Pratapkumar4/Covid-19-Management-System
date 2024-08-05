@@ -1,1 +1,1 @@
-# Covid-19-Management-System
+### This is a C++ OOPS based project in which we store data of centers eligible for vaccinating people, and making the list available to the public. People can search vaccination centers according to their convenience and get vaccinated.
